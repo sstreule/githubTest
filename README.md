@@ -1,2 +1,2 @@
 # githubTest
-First steps into learning how to use GitHub
+First steps into learning how to use GitHub. Hopefully, I will learn it fast. 
